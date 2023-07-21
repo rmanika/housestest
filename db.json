@@ -1,0 +1,14 @@
+{
+  "posts": [
+   { "id": 1, "address": "Chittaranjan street, Nethaji road", "country": "India", "price": "20000" },
+    { "id": 2, "address": "Gandhiji street, Venugopal nagar", "country": "India", "price": "20000" },
+    { "id": 3, "address": "JP nagar, Bengaluru", "country": "India", "price": "100000" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 3, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
